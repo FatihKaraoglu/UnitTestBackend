@@ -1,0 +1,12 @@
+C:\Users\f.karaoglu\source\repos\UnitTestBackend\UnitTestShared\obj\Debug\net8.0\UnitTestShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f.karaoglu\source\repos\UnitTestBackend\UnitTestShared\obj\Debug\net8.0\UnitTestShared.AssemblyInfoInputs.cache
+C:\Users\f.karaoglu\source\repos\UnitTestBackend\UnitTestShared\obj\Debug\net8.0\UnitTestShared.AssemblyInfo.cs
+C:\Users\f.karaoglu\source\repos\UnitTestBackend\UnitTestShared\obj\Debug\net8.0\UnitTestShared.csproj.CoreCompileInputs.cache
+C:\Users\f.karaoglu\source\repos\UnitTestBackend\UnitTestShared\bin\Debug\net8.0\UnitTestShared.deps.json
+C:\Users\f.karaoglu\source\repos\UnitTestBackend\UnitTestShared\bin\Debug\net8.0\UnitTestShared.dll
+C:\Users\f.karaoglu\source\repos\UnitTestBackend\UnitTestShared\bin\Debug\net8.0\UnitTestShared.pdb
+C:\Users\f.karaoglu\source\repos\UnitTestBackend\UnitTestShared\obj\Debug\net8.0\UnitTestShared.dll
+C:\Users\f.karaoglu\source\repos\UnitTestBackend\UnitTestShared\obj\Debug\net8.0\refint\UnitTestShared.dll
+C:\Users\f.karaoglu\source\repos\UnitTestBackend\UnitTestShared\obj\Debug\net8.0\UnitTestShared.pdb
+C:\Users\f.karaoglu\source\repos\UnitTestBackend\UnitTestShared\obj\Debug\net8.0\ref\UnitTestShared.dll
+C:\Users\f.karaoglu\source\repos\UnitTestBackend\UnitTestShared\obj\Debug\net8.0\UnitTestShared.csproj.AssemblyReference.cache

@@ -1,0 +1,402 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|c:\\users\\f.karaoglu\\source\\repos\\unittestbackend\\unittestbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|solutionrelative:unittestbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|c:\\users\\f.karaoglu\\source\\repos\\unittestbackend\\unittestbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|solutionrelative:unittestbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|c:\\users\\f.karaoglu\\source\\repos\\unittestbackend\\unittestbackend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|solutionrelative:unittestbackend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C7A2C9-4829-4032-9A60-B2F63D306344}|UnitTestShared\\UnitTestShared.csproj|c:\\users\\f.karaoglu\\source\\repos\\unittestbackend\\unittestshared\\dto\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C7A2C9-4829-4032-9A60-B2F63D306344}|UnitTestShared\\UnitTestShared.csproj|solutionrelative:unittestshared\\dto\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|c:\\users\\f.karaoglu\\source\\repos\\unittestbackend\\unittestbackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|solutionrelative:unittestbackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|c:\\users\\f.karaoglu\\source\\repos\\unittestbackend\\unittestbackend\\migrations\\20240917105223_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|solutionrelative:unittestbackend\\migrations\\20240917105223_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|c:\\users\\f.karaoglu\\source\\repos\\unittestbackend\\unittestbackend\\migrations\\20240918092152_addidentitydbapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|solutionrelative:unittestbackend\\migrations\\20240918092152_addidentitydbapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|c:\\users\\f.karaoglu\\source\\repos\\unittestbackend\\unittestbackend\\migrations\\20240917123011_addedcategorytoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|solutionrelative:unittestbackend\\migrations\\20240917123011_addedcategorytoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|c:\\users\\f.karaoglu\\source\\repos\\unittestbackend\\unittestbackend\\migrations\\20240918091807_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|solutionrelative:unittestbackend\\migrations\\20240918091807_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|c:\\users\\f.karaoglu\\source\\repos\\unittestbackend\\unittestbackend\\migrations\\20240918091957_addidentitydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|solutionrelative:unittestbackend\\migrations\\20240918091957_addidentitydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C7A2C9-4829-4032-9A60-B2F63D306344}|UnitTestShared\\UnitTestShared.csproj|c:\\users\\f.karaoglu\\source\\repos\\unittestbackend\\unittestshared\\entity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C7A2C9-4829-4032-9A60-B2F63D306344}|UnitTestShared\\UnitTestShared.csproj|solutionrelative:unittestshared\\entity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C7A2C9-4829-4032-9A60-B2F63D306344}|UnitTestShared\\UnitTestShared.csproj|c:\\users\\f.karaoglu\\source\\repos\\unittestbackend\\unittestshared\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C7A2C9-4829-4032-9A60-B2F63D306344}|UnitTestShared\\UnitTestShared.csproj|solutionrelative:unittestshared\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C7A2C9-4829-4032-9A60-B2F63D306344}|UnitTestShared\\UnitTestShared.csproj|c:\\users\\f.karaoglu\\source\\repos\\unittestbackend\\unittestshared\\dto\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C7A2C9-4829-4032-9A60-B2F63D306344}|UnitTestShared\\UnitTestShared.csproj|solutionrelative:unittestshared\\dto\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|c:\\users\\f.karaoglu\\source\\repos\\unittestbackend\\unittestbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|solutionrelative:unittestbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C7A2C9-4829-4032-9A60-B2F63D306344}|UnitTestShared\\UnitTestShared.csproj|c:\\users\\f.karaoglu\\source\\repos\\unittestbackend\\unittestshared\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C7A2C9-4829-4032-9A60-B2F63D306344}|UnitTestShared\\UnitTestShared.csproj|solutionrelative:unittestshared\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED67ACC-7B26-4262-B0B6-3491CF6C7185}|UnitTestBackend.Tests\\UnitTestBackend.Tests.csproj|c:\\users\\f.karaoglu\\source\\repos\\unittestbackend\\unittestbackend.tests\\sampletests\\sampletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED67ACC-7B26-4262-B0B6-3491CF6C7185}|UnitTestBackend.Tests\\UnitTestBackend.Tests.csproj|solutionrelative:unittestbackend.tests\\sampletests\\sampletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED67ACC-7B26-4262-B0B6-3491CF6C7185}|UnitTestBackend.Tests\\UnitTestBackend.Tests.csproj|c:\\users\\f.karaoglu\\source\\repos\\unittestbackend\\unittestbackend.tests\\repositorytests\\productrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED67ACC-7B26-4262-B0B6-3491CF6C7185}|UnitTestBackend.Tests\\UnitTestBackend.Tests.csproj|solutionrelative:unittestbackend.tests\\repositorytests\\productrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|c:\\users\\f.karaoglu\\source\\repos\\unittestbackend\\unittestbackend\\services\\productservice\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|solutionrelative:unittestbackend\\services\\productservice\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|c:\\users\\f.karaoglu\\source\\repos\\unittestbackend\\unittestbackend\\repository\\productrepository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|solutionrelative:unittestbackend\\repository\\productrepository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED67ACC-7B26-4262-B0B6-3491CF6C7185}|UnitTestBackend.Tests\\UnitTestBackend.Tests.csproj|c:\\users\\f.karaoglu\\source\\repos\\unittestbackend\\unittestbackend.tests\\servicetests\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED67ACC-7B26-4262-B0B6-3491CF6C7185}|UnitTestBackend.Tests\\UnitTestBackend.Tests.csproj|solutionrelative:unittestbackend.tests\\servicetests\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|c:\\users\\f.karaoglu\\source\\repos\\unittestbackend\\unittestbackend\\services\\productservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|solutionrelative:unittestbackend\\services\\productservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|c:\\users\\f.karaoglu\\source\\repos\\unittestbackend\\unittestbackend\\unittestbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8883C2E5-CDBD-49B5-A0A5-5C22CB1C2607}|UnitTestBackend\\UnitTestBackend.csproj|solutionrelative:unittestbackend\\unittestbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240917105223_Init.cs",
+              "DocumentMoniker": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\Migrations\\20240917105223_Init.cs",
+              "RelativeDocumentMoniker": "UnitTestBackend\\Migrations\\20240917105223_Init.cs",
+              "ToolTip": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\Migrations\\20240917105223_Init.cs",
+              "RelativeToolTip": "UnitTestBackend\\Migrations\\20240917105223_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:22:09.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240917123011_AddedCategoryToProduct.cs",
+              "DocumentMoniker": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\Migrations\\20240917123011_AddedCategoryToProduct.cs",
+              "RelativeDocumentMoniker": "UnitTestBackend\\Migrations\\20240917123011_AddedCategoryToProduct.cs",
+              "ToolTip": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\Migrations\\20240917123011_AddedCategoryToProduct.cs",
+              "RelativeToolTip": "UnitTestBackend\\Migrations\\20240917123011_AddedCategoryToProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:22:08.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240918092152_AddIdentityDBApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\Migrations\\20240918092152_AddIdentityDBApplicationUser.cs",
+              "RelativeDocumentMoniker": "UnitTestBackend\\Migrations\\20240918092152_AddIdentityDBApplicationUser.cs",
+              "ToolTip": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\Migrations\\20240918092152_AddIdentityDBApplicationUser.cs",
+              "RelativeToolTip": "UnitTestBackend\\Migrations\\20240918092152_AddIdentityDBApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:22:04.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240918091957_AddIdentityDB.cs",
+              "DocumentMoniker": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\Migrations\\20240918091957_AddIdentityDB.cs",
+              "RelativeDocumentMoniker": "UnitTestBackend\\Migrations\\20240918091957_AddIdentityDB.cs",
+              "ToolTip": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\Migrations\\20240918091957_AddIdentityDB.cs",
+              "RelativeToolTip": "UnitTestBackend\\Migrations\\20240918091957_AddIdentityDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:20:08.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240918091807_AddIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\Migrations\\20240918091807_AddIdentity.cs",
+              "RelativeDocumentMoniker": "UnitTestBackend\\Migrations\\20240918091807_AddIdentity.cs",
+              "ToolTip": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\Migrations\\20240918091807_AddIdentity.cs",
+              "RelativeToolTip": "UnitTestBackend\\Migrations\\20240918091807_AddIdentity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:19:19.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "UnitTestBackend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "UnitTestBackend\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:59:37.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestShared\\DTO\\AuthResponseDTO.cs",
+              "RelativeDocumentMoniker": "UnitTestShared\\DTO\\AuthResponseDTO.cs",
+              "ToolTip": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestShared\\DTO\\AuthResponseDTO.cs",
+              "RelativeToolTip": "UnitTestShared\\DTO\\AuthResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:58:59.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestShared\\DTO\\UserLoginDTO.cs",
+              "RelativeDocumentMoniker": "UnitTestShared\\DTO\\UserLoginDTO.cs",
+              "ToolTip": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestShared\\DTO\\UserLoginDTO.cs",
+              "RelativeToolTip": "UnitTestShared\\DTO\\UserLoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:58:31.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRegistrationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestShared\\DTO\\UserRegistrationDTO.cs",
+              "RelativeDocumentMoniker": "UnitTestShared\\DTO\\UserRegistrationDTO.cs",
+              "ToolTip": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestShared\\DTO\\UserRegistrationDTO.cs",
+              "RelativeToolTip": "UnitTestShared\\DTO\\UserRegistrationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:58:07.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestShared\\Entity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "UnitTestShared\\Entity\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestShared\\Entity\\ApplicationUser.cs",
+              "RelativeToolTip": "UnitTestShared\\Entity\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:55:52.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestShared\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "UnitTestShared\\Entity\\Product.cs",
+              "ToolTip": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestShared\\Entity\\Product.cs",
+              "RelativeToolTip": "UnitTestShared\\Entity\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:32:34.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend.Tests\\ServiceTests\\ProductServiceTests.cs",
+              "RelativeDocumentMoniker": "UnitTestBackend.Tests\\ServiceTests\\ProductServiceTests.cs",
+              "ToolTip": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend.Tests\\ServiceTests\\ProductServiceTests.cs",
+              "RelativeToolTip": "UnitTestBackend.Tests\\ServiceTests\\ProductServiceTests.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwBMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:36:56.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\Services\\ProductService\\ProductService.cs",
+              "RelativeDocumentMoniker": "UnitTestBackend\\Services\\ProductService\\ProductService.cs",
+              "ToolTip": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\Services\\ProductService\\ProductService.cs",
+              "RelativeToolTip": "UnitTestBackend\\Services\\ProductService\\ProductService.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwDYAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:29:21.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\Services\\ProductService\\IProductService.cs",
+              "RelativeDocumentMoniker": "UnitTestBackend\\Services\\ProductService\\IProductService.cs",
+              "ToolTip": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\Services\\ProductService\\IProductService.cs",
+              "RelativeToolTip": "UnitTestBackend\\Services\\ProductService\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:29:08.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend.Tests\\RepositoryTests\\ProductRepositoryTests.cs",
+              "RelativeDocumentMoniker": "UnitTestBackend.Tests\\RepositoryTests\\ProductRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend.Tests\\RepositoryTests\\ProductRepositoryTests.cs",
+              "RelativeToolTip": "UnitTestBackend.Tests\\RepositoryTests\\ProductRepositoryTests.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAiwCQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:12:30.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SampleTests.cs",
+              "DocumentMoniker": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend.Tests\\SampleTests\\SampleTests.cs",
+              "RelativeDocumentMoniker": "UnitTestBackend.Tests\\SampleTests\\SampleTests.cs",
+              "ToolTip": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend.Tests\\SampleTests\\SampleTests.cs",
+              "RelativeToolTip": "UnitTestBackend.Tests\\SampleTests\\SampleTests.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:09:21.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UnitTestBackend",
+              "DocumentMoniker": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\UnitTestBackend.csproj",
+              "RelativeDocumentMoniker": "UnitTestBackend\\UnitTestBackend.csproj",
+              "ToolTip": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\UnitTestBackend.csproj",
+              "RelativeToolTip": "UnitTestBackend\\UnitTestBackend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T09:59:08.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "UnitTestBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\appsettings.json",
+              "RelativeToolTip": "UnitTestBackend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-17T09:53:08.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "UnitTestBackend\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "UnitTestBackend\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:20:43.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\Program.cs",
+              "RelativeDocumentMoniker": "UnitTestBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\Program.cs",
+              "RelativeToolTip": "UnitTestBackend\\Program.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAswEkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:19:42.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "UnitTestBackend\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "UnitTestBackend\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:19:11.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\Repository\\ProductRepository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "UnitTestBackend\\Repository\\ProductRepository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\f.karaoglu\\source\\repos\\UnitTestBackend\\UnitTestBackend\\Repository\\ProductRepository\\ProductRepository.cs",
+              "RelativeToolTip": "UnitTestBackend\\Repository\\ProductRepository\\ProductRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwC8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:18:05.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
